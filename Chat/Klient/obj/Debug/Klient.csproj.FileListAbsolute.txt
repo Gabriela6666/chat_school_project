@@ -1,0 +1,10 @@
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\bin\Debug\Klient.exe.config
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\bin\Debug\Klient.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\bin\Debug\Klient.pdb
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.Klient.resources
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.Properties.Resources.resources
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.csproj.GenerateResource.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Klient\obj\Debug\Klient.pdb

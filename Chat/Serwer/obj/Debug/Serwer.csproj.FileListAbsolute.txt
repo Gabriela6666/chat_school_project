@@ -1,0 +1,14 @@
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\bin\Debug\Serwer.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\obj\Debug\Serwer.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Serwer\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\bin\Debug\Serwer.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\obj\Debug\Serwer.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\Chat\Serwer\obj\Debug\Serwer.pdb
